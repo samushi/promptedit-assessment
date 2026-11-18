@@ -6,7 +6,7 @@ from **Pixelforge**, an asynchronous image-generation API. Every successful
 generation is billed exactly once, at Pixelforge's cost plus a 25% markup.
 Failed generations cost nothing.
 
-- **Live demo:** _URL to be added once the deployment is confirmed to be publicly reachable._
+- **Live demo:** https://promptedit-assessment-production-22yrr4.laravel.cloud
 - **Stack:** Laravel 13 (PHP 8.4) · Inertia 3 · Vue 3 + TypeScript · Tailwind CSS 4 · Vite · PostgreSQL 17 · Pest. Built on the official Laravel Vue starter kit (Fortify authentication, Wayfinder).
 
 **Contents:** [Running it locally](#running-it-locally-docker) ·
